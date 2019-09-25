@@ -1,7 +1,32 @@
 import pandas as pd
 import numpy as np
+import turicreate as tc
+
+import numpy as np
+import scipy
+import math
+import random
+
+import sklearn
+from nltk.corpus import stopwords
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extrqction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import linear_kernel
-from sklearn.feature_extraction.text import TfidVectorizer
+from scipy.sparse.linalg import svds
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 users = pd.read_csv('lucid blog.csv/users.csv', encoding='latin-1')
 users.head()
