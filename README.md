@@ -20,4 +20,4 @@
 - Sorted the aforementioned list of tuples based on the similarity scores; that is, the second element.
 - Got the top 10 elements of this list. Ignore the first element as it refers to self (the post most similar to a particular post is the  post itself).
 - Returned the titles corresponding to the indices of the top elements.
-- Model can be tested by parsing an argument to the get recommmendations function. Since model was trained on data, arguments should be any of the title topics in the metadata csv file (merged file)
+- Model can be tested on colab by parsing an argument to the get recommmendations function. Since model was trained on data, arguments should be any of the title topics in the metadata csv file (merged file)
