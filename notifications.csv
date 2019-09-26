@@ -1,4 +1,4 @@
-﻿INSERT INTO `notifications` (`id`, `post_id`, `parent_comment_id`, `comment`, `sender_id`, `user_id`, `status`, `action`, `type`, `created_at`, `updated_at`) VALUES
+﻿id, post_id,parent_comment_id,comment,sender_id,user_id,status,action,type,created_at,updated_at
 (2, NULL, NULL, NULL,1,4,1, 'Followed', 'Following', '2019-08-26 08:48:21', '2019-08-26 12:05:42')
 (5, NULL, NULL, NULL,1,4,1, 'Followed', 'Following', '2019-08-26 10:32:46', '2019-08-26 12:05:42')
 (7,278, NULL, 'Hey bro!',1,4,1, 'Commented', 'Post', '2019-08-26 14:13:17', '2019-08-26 14:13:25')

@@ -1,4 +1,4 @@
-﻿INSERT INTO `posts` (`id`, `user_id`, `title`, `content`, `tags`, `slug`, `created_at`, `updated_at`, `image`, `status_id`, `action`, `post_id`) VALUES
+﻿id, user_id, title,content,tags,slug,created_at,updated_at,image,status_id,action,post_id
 (1,2077, 'What i have learnt so far on HTML', 'I learnt how to use the table tag as i have used it to create a presentable CV![](/storage/2077/images/img-h7ohbxmte5.png)', NULL, 'what-i-have-learnt-so-far-on-html-985', '2019-08-25 18:39:01', '2019-08-28 10:30:00', '1', NULL, NULL, NULL)
 (100,1160, 'Nigeria and Data', '<p>If we focus on gathering information about the Economy and Welfare of citizens, not only would we provide job opportunities for Data Analysts but we would build a nation that can make strategic and well informed decisions that benefits every single Citizen...', '', 'nigeria-and-data-e2e', '2019-08-25 23:42:50', '2019-08-28 10:30:04', '', NULL, NULL
 (1000,22, 'asda'," '<p><img src=\""/storage/godspeed.gp/images/img-m2ta2c82a7.jpeg\"" alt=\""\"" /></p>\n<p>Plain test</p>'", '', 'asda-f82', '2019-09-05 10:25:29', '2019-09-05 10:25:29', 'godspeed.gp/images/img-m2ta2c82a7.jpeg', NULL, NULL, NULL)
