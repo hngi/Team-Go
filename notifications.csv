@@ -185,7 +185,3 @@
 (139, NULL, NULL, NULL,2282,6,0, 'Followed', 'Following', '2019-08-27 14:15:32', '2019-08-27 14:15:32')
 (140, NULL, NULL, NULL,2282,6,0, 'Followed', 'Following', '2019-08-27 14:15:43', '2019-08-27 14:15:43')
 (131, NULL, NULL, NULL,2287,6,0, 'Followed', 'Following', '2019-08-27 12:22:03', '2019-08-27 12:22:03')
-(34,371, NULL, 'Yay, a comment section too. Nice job',550,3,1, 'Commented', 'Post', '2019-08-26 22:55:17'
-(8,360, NULL, 'This is an interesting write-up. I have a question though, in the quest to create solutions that saves time for people, you end up spending quite a fair of time. Also, sometimes it might not really be worth it. What metric can be used to determine how to balance this appropriately?',3,7,1, 'Commented'
-(161,992, NULL, 'Comments just spilled out here, nobody typed',9,2,1, 'Commented', 'Post', '2019-08-31 17:56:53'
-(15,371, NULL, 'wait, this works?',6,3,1, 'Commented', 'Post', '2019-08-26 20:09:39'
