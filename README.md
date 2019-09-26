@@ -9,4 +9,11 @@
 </div>
 
 # Team-Go
-- Extracted some tables on the sql databse
+- Extracted .csv files of the following tables: users, following, posts, notifications.
+
+Proposed approach:
+1. Recommending who to follow for User X: if X follows  a User Y, then recommend to X the users Y follows that X is not following.
+Input: Users already followed by X, check “Following” table to return users followed by Y
+2. Recommending articles to User X:
+If X follows a User Y, then recommend to X posts liked/loved by user Y.
+Input: Users followed by X, check “Notifications” table to return posts with type “Reaction” (action “like” or “love”)
