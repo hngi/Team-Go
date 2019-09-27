@@ -9,4 +9,6 @@
 </div>
 
 # Team-Go
-- Extracted some tables on the sql databse
+- Extracted some tables on the sql database
+- Created new tables from merges using pandas to extract features upon which to make prediction
+- Uses KNN to make both Users and Post Predictions
