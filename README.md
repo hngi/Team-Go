@@ -17,3 +17,6 @@ Input: Users already followed by X, check “Following” table to return users 
 2. Recommending articles to User X:
 If X follows a User Y, then recommend to X posts liked/loved by user Y.
 Input: Users followed by X, check “Notifications” table to return posts with type “Reaction” (action “like” or “love”)
+ 
+ 
+ 
