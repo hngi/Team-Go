@@ -25,6 +25,12 @@
 - open on colab
 - call the get_recommendation function and pass in any post title in the post data to bring up similar post title recommendation
 
+# Recommender System KNN command line testing
+- Has models for posts and users recommendations
+- Open with Jupyter 
+- add all files to the same directory as the notebook
+- Run testing_model function and follow intructions within
+
 # Data Used
 - Data used were extracted in csv format from the sql database provided using Xampp
 - Data were then loaded and read using pandas
