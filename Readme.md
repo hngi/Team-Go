@@ -22,11 +22,8 @@
 - Returned the titles corresponding to the indices of the top elements.
 # Article_prediction command line testing
 
-- Clone the repo
-- CD to the clone repo
-- Open command line from the directory
-- Call the get_recommendations function by typing python get_recommendations() 'title of post to search for'
-
+- open on colab
+- call the get_recommendation function and pass in any post title in the post data to bring up similar post title recommendation
 
 # Data Used
 - Data used were extracted in csv format from the sql database provided using Xampp
