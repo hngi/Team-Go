@@ -20,7 +20,7 @@
 - Sorted the aforementioned list of tuples based on the similarity scores; that is, the second element.
 - Got the top 10 elements of this list. Ignore the first element as it refers to self (the post most similar to a particular post is the  post itself).
 - Returned the titles corresponding to the indices of the top elements.
-# Article_prediction command line testing
+# Article_prediction 
 
 - open on colab
 - call the get_recommendation function and pass in any post title in the post data to bring up similar post title recommendation
