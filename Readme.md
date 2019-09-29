@@ -20,11 +20,16 @@
 - Sorted the aforementioned list of tuples based on the similarity scores; that is, the second element.
 - Got the top 10 elements of this list. Ignore the first element as it refers to self (the post most similar to a particular post is the  post itself).
 - Returned the titles corresponding to the indices of the top elements.
-- Model can be tested on colab by parsing an argument to the get recommmendations function. Since model was trained on data, arguments should be any of the title topics in the metadata csv file (merged file)
+# Article_prediction command line testing
+
+- Clone the repo
+- CD to the clone repo
+- Open command line from the directory
+- Call the get_recommendations function by typing python get_recommendations() 'title of post to search for'
 
 
 # Data Used
 - Data used were extracted in csv format from the sql database provided using Xampp
 - Data were then loaded and read using pandas
-Below is the link to the extracted data 
+- Below is the link to the extracted data 
 https://www.dropbox.com/sh/0zmpvv3d7f525i5/AAAz96dXMfu2jr2Nfd_ia4uma?dl=0
